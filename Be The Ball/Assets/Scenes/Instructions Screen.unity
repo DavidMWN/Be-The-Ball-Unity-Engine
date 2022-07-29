@@ -3356,7 +3356,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mutli-Jump - Pick up to enable two extra jumps in mid-air
+  m_text: Multi-Jump - Pick up to enable two extra jumps in mid-air
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cb02f361964d23c43873154352a1ad93, type: 2}
   m_sharedMaterial: {fileID: 2403421302681771167, guid: cb02f361964d23c43873154352a1ad93, type: 2}
@@ -4309,7 +4309,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Capsule - Picking up restricts all movement for 3 seconds\n\t\t\t- Also
-    removes mutli-jump"
+    removes multi-jump"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cb02f361964d23c43873154352a1ad93, type: 2}
   m_sharedMaterial: {fileID: 2403421302681771167, guid: cb02f361964d23c43873154352a1ad93, type: 2}
